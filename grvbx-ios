@@ -1,6 +1,6 @@
 name: grvbox
 shortname: grvbx
-basedOn: classic
+basedOn: nightTinted
 dark: TRUE
 root_keyboard: dark
 root_tabBar_background: #1D2021
