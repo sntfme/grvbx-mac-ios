@@ -291,7 +291,7 @@ actionSheet_inputBorder: #282828
 actionSheet_inputPlaceholder: #A89984
 actionSheet_inputText: #FBF1C7
 actionSheet_inputClearButton: #689D6A
-actionSheet_checkContent: #0CE6ED
+actionSheet_checkContent: #FBF1C7
 contextMenu_dim: #1D2021
 contextMenu_background: #282828
 contextMenu_itemSeparator: #1D2021
