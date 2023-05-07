@@ -279,7 +279,7 @@ actionSheet_bgType: dark
 actionSheet_opaqueItemBg: #1D2021
 actionSheet_opaqueItemHighlightedBg: #3C3836
 actionSheet_itemHighlightedBg: #3C3836
-actionSheet_opaqueItemSeparator: #282828
+actionSheet_opaqueItemSeparator: #3C3836
 actionSheet_standardActionText: #BDAE93
 actionSheet_destructiveActionText: #FB4934
 actionSheet_disabledActionText: #689D6A75
