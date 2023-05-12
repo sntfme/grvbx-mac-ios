@@ -304,7 +304,7 @@ contextMenu_secondary: #0CE6ED
 notification_bg: #1D2021
 notification_primaryText: #FBF1C7
 notification_expanded_bgType: dark
-notification_expanded_navBar_background: #0CE6ED
+notification_expanded_navBar_background: #1D2021
 notification_expanded_navBar_primaryText: #0CE6ED
 notification_expanded_navBar_control: #0CE6ED
 notification_expanded_navBar_separator: #0CE6ED
